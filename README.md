@@ -1,5 +1,5 @@
 **Overview**:
-- Nike-landing-page is a responsive web application built using React and Tailwind CSS. It adheres to HTML5 semantic structure principles, providing a solid foundation for development. The project focuses on maintaining a clean and accessible codebase while ensuring a visually appealing and user-friendly interface.
+- Nike-landing-page is a **responsive** web application built using **React** and **Tailwind CSS**. It adheres to HTML5 semantic structure principles, providing a solid foundation for development. The project focuses on maintaining a clean and accessible codebase while ensuring a visually appealing and user-friendly interface.
 
 **Features**:
 - Responsive Design: Utilizes the power of Tailwind CSS to create a responsive layout that adapts seamlessly to various screen sizes and devices.
